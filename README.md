@@ -34,6 +34,6 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/amir-khorramdel-avval)
-- Email: amirkhoramdelaval@gmail.com
+- amirkhoramdelaval@gmail.com
 - [Telegram](https://t.me/RoyaleBurger)
 
