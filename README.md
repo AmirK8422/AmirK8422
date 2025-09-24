@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Amir 👋
 
-<!--
-**AmirK8422/AmirK8422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering student & Frontend Intern  
+⚡ Skilled in **JavaScript, React, TypeScript, Next.js, Tailwind CSS**  
+🎯 Focused on mastering Frontend (Next.js enthusiast) — long-term goal: Full-Stack Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🛍️ [NikeK](https://your-deployed-link.com) — A concept online shoe shop (React + Next.js + Tailwind)
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, TypeScript  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Other:** Git, GitHub, HTML, CSS  
+
+---
+
+## 🎯 Goals
+- Grow as a Frontend Developer in leading companies  
+- Transition to Full-Stack Development in the future  
+- Build my own startup  
+
+---
+
+## 📚 About Me
+- 🏀 Basketball & 🏋️ Fitness enthusiast  
+- 🎸 Guitar player  
+- 📖 Nerd for comics, books, movies, and games  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/amir-khorramdel-avval)
+- Email: amirkhoramdelaval@gmail.com
+- Tel: (https://t.me/RoyaleBurger)
+
